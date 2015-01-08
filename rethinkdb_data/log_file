@@ -1,0 +1,46 @@
+2015-01-07T23:51:50.690097000 0.074330s info: Initializing directory /Users/Sean/Dropbox/Sites/gocode/src/repor/rethinkdb_data
+2015-01-07T23:51:50.691374000 0.075606s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/Sean/Dropbox/Sites/gocode/src/repor/rethinkdb_data' did not already exist or is empty.)
+2015-01-07T23:51:50.691420000 0.075652s info: Running rethinkdb 1.15.2 (CLANG 4.2 (clang-425.0.28))...
+2015-01-07T23:51:50.700991000 0.085224s info: Running on Darwin 14.0.0 x86_64
+2015-01-07T23:51:50.701076000 0.085308s info: Using cache size of 100 MB
+2015-01-07T23:51:50.701100000 0.085333s warn: Requested cache size is larger than available memory.
+2015-01-07T23:51:50.701122000 0.085355s warn: Cache size is very low and may impact performance.
+2015-01-07T23:51:50.701140000 0.085372s info: Loading data from directory /Users/Sean/Dropbox/Sites/gocode/src/repor/rethinkdb_data
+2015-01-07T23:51:50.968440000 0.352673s info: Listening for intracluster connections on port 29015
+2015-01-07T23:51:50.971306000 0.355538s info: Listening for client driver connections on port 28015
+2015-01-07T23:51:50.971419000 0.355652s info: Listening for administrative HTTP connections on port 8080
+2015-01-07T23:51:50.971436000 0.355668s info: Listening on addresses: 127.0.0.1, ::1
+2015-01-07T23:51:50.971448000 0.355680s info: To fully expose RethinkDB on the network, bind to all addresses
+2015-01-07T23:51:50.971456000 0.355688s info: by running rethinkdb with the `--bind all` command line option.
+2015-01-07T23:51:50.971463000 0.355696s info: Server ready
+2015-01-08T01:18:09.536749000 0.072066s info: Running rethinkdb 1.15.2 (CLANG 4.2 (clang-425.0.28))...
+2015-01-08T01:18:09.554583000 0.089900s info: Running on Darwin 14.0.0 x86_64
+2015-01-08T01:18:09.554634000 0.089951s info: Using cache size of 100 MB
+2015-01-08T01:18:09.554666000 0.089983s warn: Cache size does not leave much memory for server and query overhead (available memory: 111 MB).
+2015-01-08T01:18:09.554688000 0.090005s warn: Cache size is very low and may impact performance.
+2015-01-08T01:18:09.554718000 0.090036s info: Loading data from directory /Users/Sean/Dropbox/Sites/gocode/src/repor/rethinkdb_data
+2015-01-08T01:18:09.566932000 0.102249s info: Listening for intracluster connections on port 29015
+2015-01-08T01:18:09.572810000 0.108127s info: Listening for client driver connections on port 28015
+2015-01-08T01:18:09.572963000 0.108280s info: Listening for administrative HTTP connections on port 8080
+2015-01-08T01:18:09.572978000 0.108295s info: Listening on addresses: 127.0.0.1, ::1
+2015-01-08T01:18:09.572989000 0.108306s info: To fully expose RethinkDB on the network, bind to all addresses
+2015-01-08T01:18:09.573002000 0.108319s info: by running rethinkdb with the `--bind all` command line option.
+2015-01-08T01:18:09.573014000 0.108331s info: Server ready
+2015-01-08T01:25:39.453273000 449.963557s info: Server got SIGINT from pid 34793, uid 501; shutting down...
+2015-01-08T01:25:39.453778000 449.964062s info: Shutting down client connections...
+2015-01-08T01:25:39.454539000 449.964823s info: All client connections closed.
+2015-01-08T01:25:39.454559000 449.964843s info: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2015-01-08T01:25:39.454570000 449.964854s info: Storage engine shut down.
+2015-01-08T01:37:18.012961000 0.053480s info: Running rethinkdb 1.15.2 (CLANG 4.2 (clang-425.0.28))...
+2015-01-08T01:37:18.033478000 0.073996s info: Running on Darwin 14.0.0 x86_64
+2015-01-08T01:37:18.033530000 0.074048s info: Using cache size of 100 MB
+2015-01-08T01:37:18.033560000 0.074078s warn: Cache size does not leave much memory for server and query overhead (available memory: 131 MB).
+2015-01-08T01:37:18.033582000 0.074100s warn: Cache size is very low and may impact performance.
+2015-01-08T01:37:18.033600000 0.074118s info: Loading data from directory /Users/Sean/Dropbox/Sites/gocode/src/repor/rethinkdb_data
+2015-01-08T01:37:18.047262000 0.087780s info: Listening for intracluster connections on port 29015
+2015-01-08T01:37:18.051394000 0.091912s info: Listening for client driver connections on port 28015
+2015-01-08T01:37:18.051609000 0.092128s info: Listening for administrative HTTP connections on port 8080
+2015-01-08T01:37:18.051619000 0.092137s info: Listening on addresses: 127.0.0.1, ::1
+2015-01-08T01:37:18.051637000 0.092155s info: To fully expose RethinkDB on the network, bind to all addresses
+2015-01-08T01:37:18.051682000 0.092201s info: by running rethinkdb with the `--bind all` command line option.
+2015-01-08T01:37:18.051696000 0.092214s info: Server ready
